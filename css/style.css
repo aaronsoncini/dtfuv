@@ -8,7 +8,13 @@
 }
 
 .aaron {
+    width: fit-content;
     color: rgb(41, 41, 41);
+    transition: color 0.5s ease;
+}
+
+.aaron:hover {
+    color: rgb(102, 27, 178);
 }
 
 body {
